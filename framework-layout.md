@@ -6,7 +6,7 @@
 | 100.00           | [Information Security                   |                  |                                                |                  |                        |                 |               |
 |                  |                                         | 100.01           | Acceptable Use                                 |                  |                        |                 |               |
 |                  |                                         | 100.02           | Storage of Sensitive Information               |                  |                        |                 |               |
-|                  |                                         | 100.03           | Encryption                                     |                  |                        |                 |               |
+|                  |                                         | [100.03][100.03] | [Encryption][100.03]                           |                  |                        |                 |               |
 |                  |                                         | 100.04           | Disposal of Digital Media                      |                  |                        |                 |               |
 | 101.00           | Asset Management                        |                  |                                                |                  |                        |                 |               |
 |                  |                                         | 101.01           | Hardware Invendory                             |                  |                        |                 |               |
@@ -53,3 +53,6 @@
 | 112.00           | Application Security                    |                  |                                                |                  |                        |                 |               |
 |                  |                                         | 112.01           | Secure Code Development                        |                  |                        |                 |               |
 |                  |                                         | 112.02           | Application Testing                            |                  |                        |                 |               |
+
+
+[100.03]: /100/standards/100.03-encryption.md
