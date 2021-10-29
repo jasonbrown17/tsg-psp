@@ -3,7 +3,7 @@
 
 | Policy Number    | Policy Name                             | Standard Number  | Standard Name                                  | Procedure Number | Procedure Name         | Appendix Number | Appendix Name |
 | ---------------  | --------------------------------------- | ---------------- | ---------------------------------------------- | ---------------- | ---------------------- | --------------- | ------------- |
-| 100.00           | [Information Security                   |                  |                                                |                  |                        |                 |               |
+| 100.00           | Information Security                    |                  |                                                |                  |                        |                 |               |
 |                  |                                         | 100.01           | Acceptable Use                                 |                  |                        |                 |               |
 |                  |                                         | 100.02           | Storage of Sensitive Information               |                  |                        |                 |               |
 |                  |                                         | [100.03][100.03] | [Encryption][100.03]                           |                  |                        |                 |               |
@@ -43,6 +43,7 @@
 |                  |                                         | 109.02           | Vulnerability Management                       |                  |                        |                 |               |
 |                  |                                         | 109.03           | Patch Management                               |                  |                        |                 |               |
 |                  |                                         | 109.04           | Penetration Testing                            |                  |                        |                 |               |
+|                  |                                         | [109.05][109.05] | [Session Timeouts][109.05]                     |                  |                        |                 |               |
 | 110.00           | Risk Management                         |                  |                                                |                  |                        |                 |               |
 |                  |                                         | 110.01           | Risk Assessments                               |                  |                        |                 |               |
 |                  |                                         | 110.02           | Threat Analysis                                |                  |                        |                 |               |
@@ -56,3 +57,4 @@
 
 
 [100.03]: /100/standards/100.03-encryption.md
+[109.05]: /109/standards/109.05-session-timeouts.md
