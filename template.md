@@ -15,7 +15,7 @@
   - [Standard](#standard)
   - [Information References](#information-references)
       - [Centers for Internet Security Version 7.1](#centers-for-internet-security-version-71)
-      - [NIST 800-53 Revision 4](#nist-800-53-revision-4)
+      - [NIST 800-53 Revision 5](#nist-800-53-revision-5)
       - [NIST Cybersecurity Framework Version 1.1](#nist-cybersecurity-framework-version-11)
 
 ## Purpose
@@ -35,7 +35,7 @@
 | --------------------------- | -------- |
 |                             |          | 
 
-#### NIST 800-53 Revision 4
+#### NIST 800-53 Revision 5
 
 | _Control Name_ | _Control Number_ |
 | -------------- | ---------------- |
