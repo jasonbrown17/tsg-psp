@@ -59,7 +59,7 @@
 |                  |                                         | 112.02           | Application Testing                            |                        |                            |                 |               |
 
 
-[100.00]: /100/policy/100.00-informationsecurity.md
+[100.00]: /100/policy/100.00-information-security.md
 [100.03]: /100/standards/100.03-encryption.md
 [105.02.01]: /105/procuedres/105.02.01-aar.md
 [109.05]: /109/standards/109.05-session-timeouts.md
