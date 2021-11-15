@@ -6,7 +6,7 @@
 | 99.00            | Governance                              |                  |                                                |                        |                            |                 |               |
 |                  |                                         | 99.01            | Policy Workflow                                |                        |                            |                 |               |
 |                  |                                         | 99.02            | Security Framework                             |                        |                            |                 |               |
-| 100.00[100.00]   | Information Security[100.00]            |                  |                                                |                        |                            |                 |               |
+| [100.00][100.00] | [Information Security][100.00]          |                  |                                                |                        |                            |                 |               |
 |                  |                                         | 100.01           | Acceptable Use                                 |                        |                            |                 |               |
 |                  |                                         | 100.02           | Storage of Sensitive Information               |                        |                            |                 |               |
 |                  |                                         | [100.03][100.03] | [Encryption][100.03]                           |                        |                            |                 |               |
