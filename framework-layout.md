@@ -6,7 +6,7 @@
 | 99.00            | Governance                              |                  |                                                |                        |                            |                 |               |
 |                  |                                         | 99.01            | Policy Workflow                                |                        |                            |                 |               |
 |                  |                                         | 99.02            | Security Framework                             |                        |                            |                 |               |
-| 100.00           | Information Security                    |                  |                                                |                        |                            |                 |               |
+| 100.00[100.00]   | Information Security[100.00]            |                  |                                                |                        |                            |                 |               |
 |                  |                                         | 100.01           | Acceptable Use                                 |                        |                            |                 |               |
 |                  |                                         | 100.02           | Storage of Sensitive Information               |                        |                            |                 |               |
 |                  |                                         | [100.03][100.03] | [Encryption][100.03]                           |                        |                            |                 |               |
@@ -59,6 +59,7 @@
 |                  |                                         | 112.02           | Application Testing                            |                        |                            |                 |               |
 
 
+[100.00]: /100/policy/100.00-informationsecurity.md
 [100.03]: /100/standards/100.03-encryption.md
 [105.02.01]: /105/procuedres/105.02.01-aar.md
 [109.05]: /109/standards/109.05-session-timeouts.md
